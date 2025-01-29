@@ -17,11 +17,6 @@ A collection of AI-related projects and experiments, including:
   - GPT-4 version
 - Each with HTML5 Canvas, JavaScript game logic, and CSS styling
 
-### AI Pac-Man
-- Classic Pac-Man game implementation
-- Features ghost AI and maze navigation
-- Built with HTML5 Canvas and JavaScript
-
 ### AI Data Processing
 - Data processing and analysis tools
 - Handles Boston Housing Dataset
